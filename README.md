@@ -1,2 +1,2 @@
-# Project
-My project will be saved here!
+# Data science project
+My projects will be saved here!
