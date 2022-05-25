@@ -1,9 +1,31 @@
 # Data science project
 My data science projects will be saved here!
 
+[IBM_SpaceX_1_Data Collection API.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_1_Data%20Collection%20API.ipynb)
+[IBM_SpaceX_2_Webscraping.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_2_Webscraping.ipynb)
+[IBM_SpaceX_3_Data Wrangling.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_3_Data%20Wrangling.ipynb)
+[IBM_SpaceX_4_EDA SQL_.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_4_EDA%20SQL_.ipynb)
+[IBM_SpaceX_5_EDA Data Vistualization.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_5_EDA%20Data%20Vistualization.ipynb)
+[IBM_SpaceX_6_Launch Site Location with Folium.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_6_Launch%20Site%20Location%20with%20Folium.ipynb)
+[IBM_SpaceX_7_Dash Application with Dash Application.py](https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_7_Dash%20Application%20with%20Dash%20Application.py)
+[IBM_SpaceX_8_Machine Learning Prediction.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_8_Machine%20Learning%20Prediction.ipynb)
+<br>IBM SpaceX 1-8 are the data science project about prediction of Falcon 9 rocket landing.
+<br>Skills performed:
+- Data collection with API
+- Data collection by web scriping
+- Exploratory data analysis with Python
+- Exploratory data analysis with SQL
+- Interactive dashboard with plotly dash
+- Visualization with seaborn and folium
+- Data cleaning and wrangling
+- Feature engineering
+- Classification machine learning modeling
+- Hyperparameter tuning
+- Model evaluation
+
 [Wine.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/Wine.ipynb)
-<br>Wine.ipynb is my first data science project, which is about classification of wine quality using Python.
-<br>When I started my project, I tried to apply the skills and techniques I learnt from Coursera as listed below:
+<br>Wine.ipynb is about classification of wine quality using Python.
+<br>When Skills and techniques performed:
 - Exploratory data analysis
 - Data wrangling
 - Data engineering
@@ -14,4 +36,4 @@ My data science projects will be saved here!
 [SQL_FirstExercise.pdf](https://github.com/JasonLau-98/My-DS-Project/blob/main/SQL_FirstExercise.pdf)
 and
 [SQL_SecondExercise.pdf](https://github.com/JasonLau-98/My-DS-Project/blob/main/SQL_SecondExercise.pdf)
-are the code I worked on while I was learning SQL
+are the SQL query I worked on
