@@ -31,16 +31,6 @@ My data science projects will be saved here!
 - Create meaningful story
 - Write calculations
 
-<br>Wine.ipynb is about classification of wine quality using Python.
-<br>[Wine.ipynb](https://github.com/JasonLau-98/My-DS-Project/blob/main/Wine.ipynb)
-<br>Skills performed:
-- Exploratory data analysis
-- Data wrangling
-- Data engineering
-- Machine learning modeling
-- Hyperparameter tuning
-- Model evaluation
-
 <br>SQL_FirstExercise.pdf and SQL_SecondExercise.pdf are the SQL query I worked on
 <br>[SQL_FirstExercise.pdf](https://github.com/JasonLau-98/My-DS-Project/blob/main/SQL_FirstExercise.pdf) 
 and [SQL_SecondExercise.pdf](https://github.com/JasonLau-98/My-DS-Project/blob/main/SQL_SecondExercise.pdf)
