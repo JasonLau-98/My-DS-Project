@@ -1,7 +1,7 @@
 <h1>Data science project</h1>
 <body>
   <h2>SpaceX Falcon 9 First Stage Landing Prediction</h2>
-  <p>IBM SpaceX 1-8 are the data science project about prediction of Falcon 9 rocket landing in order to further investigate the cost of the rocket launch.
+  <p>IBM SpaceX 1-8 are the data science project about investigation of inportant features and prediction of rocket landing success rate of a competitor in order to further investigate the cost reduction of the rocket launch of the company.
     <br>
     <br>Summary of the project is presented in the pdf below:
     <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_Presentation.pdf'><br>IBM_SpaceX_Presentation.pdf</a>
