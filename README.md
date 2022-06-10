@@ -2,7 +2,11 @@
 <body>
   <h2>SpaceX Falcon 9 First Stage Landing Prediction</h2>
   <p>IBM SpaceX 1-8 are the data science project about prediction of Falcon 9 rocket landing in order to further investigate the cost of the rocket launch.
+    <br>
+    <br>Summary of the project is presented in the pdf below:
     <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_Presentation.pdf'><br>IBM_SpaceX_Presentation.pdf</a>
+    <br>
+    <br>Python script or Jupyter notebooks are listed below:
     <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_1_Data%20Collection%20API.ipynb'><br>IBM_SpaceX_1_Data Collection API.ipynb</a>
     <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_2_Webscraping.ipynb'><br>IBM_SpaceX_2_Webscraping.ipynb</a>
     <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_3_Data%20Wrangling.ipynb'><br>IBM_SpaceX_3_Data Wrangling.ipynb</a>
@@ -11,6 +15,7 @@
     <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_6_Launch%20Site%20Location%20with%20Folium.ipynb'><br>IBM_SpaceX_6_Launch Site Location with Folium.ipynb</a>
     <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_7_Dash%20Application%20with%20Dash%20Application.py'><br>IBM_SpaceX_7_Dash Application with Dash Application.py</a>
     <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_8_Machine%20Learning%20Prediction.ipynb'><br>IBM_SpaceX_8_Machine Learning Prediction.ipynb</a>
+    <br>
   <br>Skills performed:
   <ul>
     <li>Data collection with API</li>
@@ -29,7 +34,9 @@
   </p>
   <h2>Data-Driven Business Process Change Proposal</h2>
   <p>Tableau Project.pdf is a project using Tableau to analyse real data to provide recommendations to increase the number of tests completed by users by 15% in 6 months.
+  <br>Summary of the project is presented in the pdf below:
   <a href=https://github.com/JasonLau-98/My-DS-Project/blob/main/Tableau%20Project.pdf><br>Tableau Project.pdf</a>
+  <br>
   <br>Skills performed:
   <ul>
     <li>Create various charts (line, pie, scatter charts...)</li>
