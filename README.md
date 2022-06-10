@@ -26,7 +26,7 @@
   </ul>
   </p>
   <h2>Data-Driven Business Process Change Proposal</h2>
-  <p>Tableau Project.pdf is a project using Tableau to analyse real data to provide recommendations to increase the number of users to complete assessment test.
+  <p>Tableau Project.pdf is a project using Tableau to analyse real data to provide recommendations to increase the number of tests completed by users.
   <a href=https://github.com/JasonLau-98/My-DS-Project/blob/main/Tableau%20Project.pdf><br>Tableau Project.pdf</a>
   <br>Skills performed:
   <ul>
