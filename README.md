@@ -10,6 +10,7 @@
   <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_6_Launch%20Site%20Location%20with%20Folium.ipynb'><br>IBM_SpaceX_6_Launch Site Location with Folium.ipynb</a>
   <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_7_Dash%20Application%20with%20Dash%20Application.py'><br>IBM_SpaceX_7_Dash Application with Dash Application.py</a>
   <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_8_Machine%20Learning%20Prediction.ipynb'><br>IBM_SpaceX_8_Machine Learning Prediction.ipynb</a>
+  <a href='https://github.com/JasonLau-98/My-DS-Project/blob/main/IBM_SpaceX_Presentation.pdf'><br>IBM_SpaceX_Presentation.pdf</a>
   <br>Skills performed:
   <ul>
     <li>Data collection with API</li>
@@ -23,6 +24,7 @@
     <li>Classification machine learning modeling</li>
     <li>Hyperparameter tuning</li>
     <li>Model evaluation</li>
+    <li>PowerPoint presentation</li>
   </ul>
   </p>
   <h2>Data-Driven Business Process Change Proposal</h2>
